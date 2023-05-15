@@ -4,10 +4,13 @@ https://monosnap.com/file/x6INGuTBIbhnBbn0lfRw5BfypYyTYA
 
 action - get
 https://monosnap.com/file/vanlXeVJliS5HJezE4BriRr7WIilok
+![get](https://d3dehtdmp2rwcw.cloudfront.net/ms_579246/xcezCNrE38Czpp7Q1p1BC9xsesqNAj/screen-node-hw-02-get.png?Expires=1684143000&Signature=Vm98ytLVQbdWThwOUCqHecpqsdJnMsxZuD2M5HJZbWHS~DjcQoYXw-c9Sy~4O6XHPb3V7YQq0HVDRjjUGj9ewN3KIdybi9cDDB7NRtEw1VZuqlWe5RpfwPl3yczXivQY7tpZf1BBQ8Tk886Nqst3jHEoXby59KAvPuglHHxyVLnlGcVwBXjfFmwmhAM9y-eLgl6BHSsKyiESVe98btTz6JJSJUkiISEXP0w6-c5SkIt~Sf84Jv-~BfQpvY0j9IlmgLlxmXdpqLqCpfk7184U7KOh1EI1gmc7005bUbTGnj3eTLAcO8R8OS6Hdc52olOq3JvQlAiVgs7-03S5-B8jlA__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA 'action - get')
 
 action - add
 https://monosnap.com/file/A4QHnTiRv656oy570GFFZt2XB7H7l5
+![add](https://d3dehtdmp2rwcw.cloudfront.net/ms_579246/hltfjUuZSu9zdi4SGrYiBYzWxEEE7H/screen-node-hw-03-add.png?Expires=1684143000&Signature=J6u4SQ319i9aCSh-f7je-RN70lbNWnzpg07mTN5dr1aJWJ33XV7L8ZalPtLByxjsOM2kCFv8M7iaPTtn9EendCsvhIpW~MfubFqA3uQEJKVlt~96SGGVqQXeyMA87Ev798xo1ZJhdxJmSoBPcBeSdRzxM5U8cwDwwLpWdq3wa0o~xBuKy60lXBl5YUpsKMN2KB6bf3IN6Kx~o1vA5M53wlSjHHWxx5yUWUEuSNhP9LTQl~-IgWN9hjbMvIkpIP-vpekp5Spv-1tNWAhNh1XRS1Ab0d1TXjboIrUEo4MK7j9xv4k7pwRCmK6ITNexIUwl3yGE~dSFwjJ6CMFa8LPSXQ__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA 'action - add')
 
 action - remove
 https://monosnap.com/file/AMPVE2N79ugjAGqCc5U6xIVNpdH5sA
+![remove](https://d3dehtdmp2rwcw.cloudfront.net/ms_579246/A7xTWweBJffFPIBDnUqYzGo0O11Zc6/screen-node-hw-04-remove.png?Expires=1684143000&Signature=y6Cfq~oBeU-0aZzUTAtPUh~SQ6ysftWZ~FkQsohG~3psCFoRpNAs27kO38~e~m49QD-ye3h72G6RDEs6ajEk8nOuBimGEVgGJrYMSPewrQcXOINVzH6yzGSltseWt4es9WQiaNI~0w~ypYK5sKd~FSlm-voOqF4Wyg4GsU7EN9GZrQQXDLhVkwdJ76hDDDJRPyuj3Gkl~jBJXob~GoK7WRhmvA7GZYn2jQoRrDevguznBkQsSUlZfDkLO0vvhuFB5dZj5QAPUnLgraVWXG5A1FkannEReucozlF3TL8qbfpStZNDdGFtWUhAxxuZt2V0Xvv450g8QpcEQ4TYh~fhqg__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA 'action - remove')
 
